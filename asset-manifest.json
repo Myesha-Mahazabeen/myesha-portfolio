@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myesha-portfolio/static/css/main.7143f729.css",
+    "main.js": "/myesha-portfolio/static/js/main.5498e943.js",
+    "static/media/myesha.png": "/myesha-portfolio/static/media/myesha.4d3a0505c66bd2884723.png",
+    "static/media/Lasso.jpeg": "/myesha-portfolio/static/media/Lasso.a8002fdd7f23a0bc9571.jpeg",
+    "static/media/CCNY-ACM.jpeg": "/myesha-portfolio/static/media/CCNY-ACM.ed8250be32428bbb1506.jpeg",
+    "static/media/Foster-Care.jpeg": "/myesha-portfolio/static/media/Foster-Care.ffdcc91a8e4194fcd040.jpeg",
+    "static/media/person-3.png": "/myesha-portfolio/static/media/person-3.5dd0b714cfc8d2673b79.png",
+    "static/media/person-2.png": "/myesha-portfolio/static/media/person-2.6570129d3e8716b40235.png",
+    "static/media/person-1.png": "/myesha-portfolio/static/media/person-1.fb6c3796b42f9ad950c7.png",
+    "static/media/brush.png": "/myesha-portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/myesha-portfolio/index.html",
+    "main.7143f729.css.map": "/myesha-portfolio/static/css/main.7143f729.css.map",
+    "main.5498e943.js.map": "/myesha-portfolio/static/js/main.5498e943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7143f729.css",
+    "static/js/main.5498e943.js"
+  ]
+}
